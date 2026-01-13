@@ -1,5 +1,3 @@
-# hello-world
-first repository
-Editing the file for the first time as part of hello world tutorial
+hello-world
+first repository Editing the file for the first time as part of hello world tutorial
 
-I'm changing this
